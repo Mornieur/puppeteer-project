@@ -6,7 +6,7 @@
 
 <div align='center'>
 
-  <img src="./src/assets/puppeteer-project" alt='project image' width='600'  />
+  <img src="src=./public/assets/puppeteer-project.png" alt='project image' width='600'  />
 </div>
 
 This project automates the process of capturing screenshots for various web projects using Puppeteer. It leverages Puppeteer to navigate to different URLs, capture screenshots, and save them for showcasing purposes. The captured screenshots are displayed in a React component named "Header," showcasing each project's name, description, and a screenshot.
